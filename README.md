@@ -8,6 +8,9 @@ Write 1-2 paragraphs describing specifically what you want to do for your final 
 
 Datasets
 Write 1-2 paragraphs describing your dataset, the reasons why you choose this dataset, attributes of the chosen dataset. This would help readers to understand your dataset to some extent.
+If we go with the video game domain, I found 2 options on kaggle:
+https://www.kaggle.com/tamber/steam-video-games
+https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
 
 Project schedule
 Please create a table that indicates the tentative project schedule and what you want to accomplish from now to the end of the project.
